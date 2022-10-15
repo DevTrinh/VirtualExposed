@@ -1,0 +1,52 @@
+{
+  "stringTable": {
+    "0": "C:/Users/ADMIN/Desktop/VirtualXPp/VirtualXposed/libepic/.cxx/cmake/release/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=C:/Users/ADMIN/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ADMIN/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Depic_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "epic-Release-x86": {
+      "buildCommand": "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\.cxx\\cmake\\release\\x86\" epic",
+      "buildType": "release",
+      "toolchain": "2997212694",
+      "abi": "x86",
+      "artifactName": "epic",
+      "files": [
+        {
+          "src": "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\epic.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\fake_dlfcn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\art.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\build\\intermediates\\cmake\\release\\obj\\x86\\libepic.so"
+    }
+  },
+  "toolchains": {
+    "2997212694": {
+      "cppCompilerExecutable": "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

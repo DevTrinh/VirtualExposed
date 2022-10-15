@@ -1,0 +1,7 @@
+Executable : C:\Users\ADMIN\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ADMIN\Desktop\VirtualXPp\VirtualXposed\libepic\.cxx\cmake\debug\armeabi-v7a
+epic
+jvmArgs : 
+

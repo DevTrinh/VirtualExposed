@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "epic-Release-x86": {
+      "artifactName": "epic",
+      "buildCommand": "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\.cxx\\cmake\\release\\x86\" epic",
+      "abi": "x86",
+      "output": "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\build\\intermediates\\cmake\\release\\obj\\x86\\libepic.so"
+    }
+  }
+}

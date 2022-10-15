@@ -1,0 +1,3 @@
+C:/Users/ADMIN/Desktop/VirtualXPp/VirtualXposed/libepic/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/VirtualXPp/VirtualXposed/libepic/.cxx/cmake/debug/x86/CMakeFiles/epic.dir
+C:/Users/ADMIN/Desktop/VirtualXPp/VirtualXposed/libepic/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

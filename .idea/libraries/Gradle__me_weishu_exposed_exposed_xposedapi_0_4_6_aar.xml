@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.weishu.exposed:exposed-xposedapi:0.4.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/007da962c60a5fcab38d39de99f0821a/exposed-xposedapi-0.4.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/007da962c60a5fcab38d39de99f0821a/exposed-xposedapi-0.4.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/007da962c60a5fcab38d39de99f0821a/exposed-xposedapi-0.4.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.weishu.exposed/exposed-xposedapi/0.4.6/9cb9b1eaa4d07889ed591e9d5c40b20de9c2cacf/exposed-xposedapi-0.4.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.weishu.exposed/exposed-xposedapi/0.4.6/174ac0997e6f6bfa18a80a866349d547b4665d6b/exposed-xposedapi-0.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

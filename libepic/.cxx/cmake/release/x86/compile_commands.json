@@ -1,0 +1,19 @@
+[
+{
+  "directory": "C:/Users/ADMIN/Desktop/VirtualXPp/VirtualXposed/libepic/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/ADMIN/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ADMIN/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Depic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\epic.dir\\epic.cpp.o -c C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\epic.cpp",
+  "file": "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\epic.cpp"
+},
+
+{
+  "directory": "C:/Users/ADMIN/Desktop/VirtualXPp/VirtualXposed/libepic/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/ADMIN/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ADMIN/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Depic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\epic.dir\\fake_dlfcn.cpp.o -c C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\fake_dlfcn.cpp",
+  "file": "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\fake_dlfcn.cpp"
+},
+
+{
+  "directory": "C:/Users/ADMIN/Desktop/VirtualXPp/VirtualXposed/libepic/.cxx/cmake/release/x86",
+  "command": "C:\\Users\\ADMIN\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/ADMIN/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ADMIN/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Depic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\epic.dir\\art.cpp.o -c C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\art.cpp",
+  "file": "C:\\Users\\ADMIN\\Desktop\\VirtualXPp\\VirtualXposed\\libepic\\src\\main\\cpp\\art.cpp"
+}
+]

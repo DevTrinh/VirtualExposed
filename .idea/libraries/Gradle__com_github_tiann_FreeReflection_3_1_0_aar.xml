@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tiann:FreeReflection:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99b6ef0cc7094bfcb4725ed23a9399b5/FreeReflection-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99b6ef0cc7094bfcb4725ed23a9399b5/FreeReflection-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99b6ef0cc7094bfcb4725ed23a9399b5/FreeReflection-3.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tiann/FreeReflection/3.1.0/2aa3ea3a7f44cbaf010434d30d4cd1340e4c2428/FreeReflection-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tiann/FreeReflection/3.1.0/1cf8b4f8d5a162327b11289ad0aa69a8255cc1ee/FreeReflection-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

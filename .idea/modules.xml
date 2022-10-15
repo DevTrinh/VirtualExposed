@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VirtualXposed.iml" filepath="$PROJECT_DIR$/.idea/modules/VirtualXposed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VirtualXposed.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VirtualXposed.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VirtualXposed.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VirtualXposed.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VirtualXposed.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VirtualXposed.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VirtualXposed.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VirtualXposed.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exposed-core/VirtualXposed.exposed-core.iml" filepath="$PROJECT_DIR$/.idea/modules/exposed-core/VirtualXposed.exposed-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exposed-core/VirtualXposed.exposed-core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exposed-core/VirtualXposed.exposed-core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exposed-core/VirtualXposed.exposed-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exposed-core/VirtualXposed.exposed-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exposed-core/VirtualXposed.exposed-core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/exposed-core/VirtualXposed.exposed-core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/VirtualXposed.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/VirtualXposed.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/VirtualXposed.launcher.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/VirtualXposed.launcher.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/VirtualXposed.launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/VirtualXposed.launcher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/VirtualXposed.launcher.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/VirtualXposed.launcher.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/VirtualXposed.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/VirtualXposed.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/VirtualXposed.lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/VirtualXposed.lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/VirtualXposed.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/VirtualXposed.lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/VirtualXposed.lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/VirtualXposed.lib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libepic/VirtualXposed.libepic.iml" filepath="$PROJECT_DIR$/.idea/modules/libepic/VirtualXposed.libepic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libepic/VirtualXposed.libepic.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/libepic/VirtualXposed.libepic.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libepic/VirtualXposed.libepic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/libepic/VirtualXposed.libepic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libepic/VirtualXposed.libepic.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/libepic/VirtualXposed.libepic.unitTest.iml" />
+    </modules>
+  </component>
+</project>

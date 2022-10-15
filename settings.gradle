@@ -1,0 +1,2 @@
+include ':lib', ':app', ':launcher', ':exposed-core', ':libepic'
+rootProject.name="VirtualXposed"

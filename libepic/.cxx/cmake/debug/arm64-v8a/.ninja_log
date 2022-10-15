@@ -1,0 +1,5 @@
+# ninja log v5
+5	1600	686810838	CMakeFiles/epic.dir/fake_dlfcn.cpp.o	5e6210e333898469
+1	1857	686810838	CMakeFiles/epic.dir/epic.cpp.o	2961552ed06df729
+7	1859	686810838	CMakeFiles/epic.dir/art.cpp.o	530bed844b51bc27
+1859	1922	686810838	C:/Users/ADMIN/Desktop/VirtualXPp/VirtualXposed/libepic/build/intermediates/cmake/debug/obj/arm64-v8a/libepic.so	f7e0c0081b2717c7
